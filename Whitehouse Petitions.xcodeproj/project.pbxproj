@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		AD7BF13925800029002F1946 /* Petition.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD7BF13825800029002F1946 /* Petition.swift */; };
 		AD7BF13C25800170002F1946 /* Petitions.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD7BF13B25800170002F1946 /* Petitions.swift */; };
+		AD7BF13F2580031E002F1946 /* DetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD7BF13E2580031E002F1946 /* DetailViewController.swift */; };
 		E27BA5AFABA3A2A5E3F02AC7 /* Pods_Whitehouse_Petitions.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = DC74C35C9F1967EF4CDE9823 /* Pods_Whitehouse_Petitions.framework */; };
 		F265AC722485A04900EC1989 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = F265AC712485A04900EC1989 /* AppDelegate.swift */; };
 		F265AC742485A04900EC1989 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = F265AC732485A04900EC1989 /* SceneDelegate.swift */; };
@@ -25,6 +26,7 @@
 		298EDFDB4B4BAE92FFFABF4D /* Pods-Whitehouse Petitions.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Whitehouse Petitions.release.xcconfig"; path = "Target Support Files/Pods-Whitehouse Petitions/Pods-Whitehouse Petitions.release.xcconfig"; sourceTree = "<group>"; };
 		AD7BF13825800029002F1946 /* Petition.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Petition.swift; sourceTree = "<group>"; };
 		AD7BF13B25800170002F1946 /* Petitions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Petitions.swift; sourceTree = "<group>"; };
+		AD7BF13E2580031E002F1946 /* DetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailViewController.swift; sourceTree = "<group>"; };
 		DC74C35C9F1967EF4CDE9823 /* Pods_Whitehouse_Petitions.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Whitehouse_Petitions.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		F265AC6E2485A04900EC1989 /* Whitehouse Petitions.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Whitehouse Petitions.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		F265AC712485A04900EC1989 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -99,6 +101,7 @@
 				F265AC7A2485A04900EC1989 /* Whitehouse_Petitions.xcdatamodeld */,
 				AD7BF13825800029002F1946 /* Petition.swift */,
 				AD7BF13B25800170002F1946 /* Petitions.swift */,
+				AD7BF13E2580031E002F1946 /* DetailViewController.swift */,
 			);
 			path = "Whitehouse Petitions";
 			sourceTree = "<group>";
@@ -244,6 +247,7 @@
 				F265AC762485A04900EC1989 /* ViewController.swift in Sources */,
 				F265AC722485A04900EC1989 /* AppDelegate.swift in Sources */,
 				F265AC742485A04900EC1989 /* SceneDelegate.swift in Sources */,
+				AD7BF13F2580031E002F1946 /* DetailViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
